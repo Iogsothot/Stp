@@ -1,0 +1,19 @@
+{
+  "name": "zaytsev-npm-package",
+  "version": "1.1.0",
+  "description": "new npm package for uppercase text",
+  "main": "index.js",
+  "repository": "https://github.com/Iogsothot/Stp",
+  "keywords": [
+    "uppercaase",
+    "text",
+    "js",
+    "javascript",
+    "node.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Зайцев А.А.",
+  "license": "ISC"
+}
